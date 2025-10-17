@@ -1,4 +1,4 @@
-# Project 1 — Bayesian Structure Learning
+# Project 1: Bayesian Structure Learning
 
 This project implements a scoring-based approach to learn the structure of Bayesian networks, following the methods described in *Algorithms for Decision Making* (Kochenderfer et al., Chapter 7).
 
