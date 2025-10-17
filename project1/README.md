@@ -1,3 +1,7 @@
-Project aimed at learning learn the structure of Bayesian networks that best fit given datasets using a scoring-based approach. 
+# Project 1 — Bayesian Structure Learning
 
-A simple hill-climbing algorithm is implemented to iteratively modify the network and maximize the Bayesian score. The goal is to discover high-scoring structures efficiently while keeping computation time reasonable.
+This project implements a scoring-based approach to learn the structure of Bayesian networks, following the methods described in *Algorithms for Decision Making* (Kochenderfer et al., Chapter 7).
+
+A simple hill-climbing algorithm is used to iteratively modify the network and maximize the Bayesian score, identifying structures that best explain the given data.
+
+The goal is to efficiently discover high-scoring network topologies while maintaining reasonable computation time.
